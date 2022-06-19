@@ -40,6 +40,23 @@ Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review
 
+### Methods Used
+* Descriptive Statistics
+* Data Visualization
+* Machine Learning
+  -Supervised-Learning
+  -Unsupervised-Learning
+
+
+### Technologies
+* Python
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* NLP
+
 # K Means Clustering
 
 
