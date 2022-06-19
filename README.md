@@ -39,3 +39,8 @@ MetaData : Reviewer Metadata - No. of Reviews and followers
 Time: Date and Time of Review
 
 Pictures : No. of pictures posted with review
+
+#K Means Clustering
+K-means clustering is a widely used unsupervised machine learning technique.Unsupervised algorithms make inferences from datasets using only input vectors and do not relate to known or tagged outcomes. A cluster is a collection of data points that have been grouped together due to particular commonalities. K, for the number of centroids required in the dataset. The centroid is an imaginary or real point that represents the cluster's center.By lowering the in-cluster sum of squares, each data point is assigned to one of the clusters.
+
+To put it another way, the K-means algorithm finds k centroids and then assigns each data point to the closest cluster while keeping the centroids as small as possible. The 'means' in K-means refers to the data being averaged, or determining the centroid. K means is highly vulnerable to high dimensional data. As the dimensions increase it is not able to differentiate between the clusters. Hence, a dimensionality reduction technique called Principal Component Analysis was used.
