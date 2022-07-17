@@ -58,16 +58,16 @@ Pictures : No. of pictures posted with review
 * NLP
 
 ## Sentiment analysis
-
+- Used Sentiment Intensity Analyzer (vaderSentiment) and RoBerta Pretrained Model
 -Plotted the distribution of ratings to have an understanding of the proportion of good and bad reviews.
 -Made many visualizations which include, top 10/bottom 10 restaurants in terms of average rating.
 -Had a clear understanding of the cost summary of the restaurants.
 -Done pre-processing such as removing emojis, punctuations and only used Adjectives and verbs to reduce dimensionality.
--TF-IDF vectorizer was used to transform the dataset
--Built several models such as Multinomial NB, Logistic regression, Random forest classifier etc.
+
+
 
 ## Clustering
--Calculated the time each Restaurant was opened weekly.
+
 -Did the pre-processing, Clubbed some cuisines together so that one-hot encoding would be possible.
 -Removed the unwanted variables and Normalized the data.
 -Clustered the data using K-means as well as Hierarchical clustering.
